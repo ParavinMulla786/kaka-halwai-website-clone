@@ -3,7 +3,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-Markup-orange?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Framework-purple?logo=bootstrap)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 
 ---
 
