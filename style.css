@@ -515,3 +515,37 @@ input:focus, textarea:focus {
 button:hover {
   background: #9a653c;
 }
+
+
+/* 
+product */
+
+  left-boxp-name {
+      background: #f8f9fa;
+      padding: 10px;
+      border-right: 2px solid #ddd;
+      margin-left: 90px;
+      padding-left: 40px;
+    }
+
+    .product-name {
+      padding: 8px;
+      border-bottom: 1px solid #ccc;
+      cursor: pointer;
+    }
+
+    .product-name:hover {
+      background: #e9ecef;
+    }
+    .ppc{
+      display: inline-block;
+
+    }
+
+    .product-img {
+      height: 250px;
+      object-fit: cover;
+      border-radius: 10px;
+
+      
+    }
